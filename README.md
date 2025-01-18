@@ -1,1 +1,1 @@
-
+#Non-transitive dice game
